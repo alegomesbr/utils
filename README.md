@@ -7,4 +7,4 @@ All kinds of stuff :)
 04 - Basic statistics functions and charts for exploratory analysis: https://github.com/alegomesbr/utils/blob/main/basic_exploratory_analysis.py <br>
 05 - Binary - Int convertion: https://gist.github.com/alegomesbr/cbf161907153fb5082dd3b30e3133aa4 <br>
 06 - Reduce image size: https://gist.github.com/alegomesbr/e70a8caf13d8531d5c27dfd39b0a8c3a <br>
-07 - Folder Creation (Linux): https://gist.github.com/alegomesbr/1e688c94adc12b46bfcd41a351162242 <br>
+07 - File and Folder Manipulation (Linux): https://gist.github.com/alegomesbr/1e688c94adc12b46bfcd41a351162242 <br>
