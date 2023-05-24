@@ -8,3 +8,4 @@ All kinds of stuff :)
 05 - Binary - Int convertion: https://gist.github.com/alegomesbr/cbf161907153fb5082dd3b30e3133aa4 <br>
 06 - Reduce image size: https://gist.github.com/alegomesbr/e70a8caf13d8531d5c27dfd39b0a8c3a <br>
 07 - File and Folder Manipulation (Linux): https://gist.github.com/alegomesbr/1e688c94adc12b46bfcd41a351162242 <br>
+08 - Download web files: https://gist.github.com/alegomesbr/f5c8847efb2a1bf34428041757bdf99b <br>
