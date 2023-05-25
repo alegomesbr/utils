@@ -9,3 +9,4 @@ All kinds of stuff :)
 06 - Reduce image size: https://gist.github.com/alegomesbr/e70a8caf13d8531d5c27dfd39b0a8c3a <br>
 07 - File and Folder Manipulation (Linux): https://gist.github.com/alegomesbr/1e688c94adc12b46bfcd41a351162242 <br>
 08 - Download web files: https://gist.github.com/alegomesbr/f5c8847efb2a1bf34428041757bdf99b <br>
+09 - Generate Wordcloud: https://gist.github.com/alegomesbr/d3bb543de9d2b90c1b4054783797a6dd <br>
